@@ -1,4 +1,5 @@
 # Chinese sentence generator and organizer
+[English](README.md) | [中文](README.zh.md)
 
 ## Project description
 This project contains three main Python scripts that use thesaurus and gpt to generate Chinese sentences, merge and clean the generated sentences, and sort the sentences for easy processing.
