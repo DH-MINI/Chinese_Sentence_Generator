@@ -4,14 +4,12 @@
 This project contains three main Python scripts that use thesaurus and gpt to generate Chinese sentences, merge and clean the generated sentences, and sort the sentences for easy processing.
 
 ## File structure
-` ` `
 - README.md
 - generate_sentences.py
 - merge_and_clean.py
 - sort_sentences.py
 - config.ini
 - requirements.txt
-` ` `
 
 ## How to use
 1. Clone or download the project to your local machine.
